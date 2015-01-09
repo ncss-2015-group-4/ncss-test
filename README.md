@@ -6,7 +6,11 @@ Daniel Salahoras
 
 Harrison Shoebridge (@paked)
 Jack Reichelt (jackreichelt)
+<<<<<<< HEAD
 Benjamin Jelavic
+=======
+David (@auscompgeek)
+>>>>>>> origin/master
 Rob Pike
 
 
