@@ -5,6 +5,7 @@ add your name to this repo below here
 Daniel Salahoras
 
 Harrison Shoebridge (@paked)
+Jack Reichelt (jackreichelt)
 
 Rob Pike
 
